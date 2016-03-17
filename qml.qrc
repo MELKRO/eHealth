@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Talo.qml</file>
+        <file>taustakuva.png</file>
+        <file>keittio.png</file>
+        <file>tasanne.jpg</file>
+        <file>pesuhuone.jpg</file>
+        <file>olkkari.jpg</file>
+        <file>makkari.jpg</file>
+        <file>keittio2.jpg</file>
+        <file>eteinen.png</file>
+        <file>ovi_kiinni.png</file>
+        <file>ovi_auki.png</file>
+    </qresource>
+</RCC>
